@@ -1,4 +1,4 @@
 - Hey there, I'm anchikai. I code Isaac mods.
-- I work on my own projects such as Isaac's Keyboard and apart of the large modding team "Team Compliance"
-- I'd be interested in implementing ideas/suggestions in my upcoming mini expansion mod.
+- I work on my own projects such as Furtherance and apart of the large modding team "Team Compliance"
+- I'd be interested in implementing ideas/suggestions you may have in Furtherance.
 - If you want to get in contact with me, my discord is anchikai.#6148
