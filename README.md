@@ -1,4 +1,3 @@
-- Hey there, I'm anchikai. I code Isaac and Minecraft mods.
-- I work on my own projects such as Furtherance.
-- I'd be interested in implementing ideas/suggestions you may have in Furtherance.
-- If you want to get in contact with me, my discord is anchikai.#6148
+- Hey there, I'm anchikai. I develop Minecraft mods and my own games in my free time.
+- I work on my own projects such as Endium
+- If you want to get in contact with me, my discord is @anchikai.
