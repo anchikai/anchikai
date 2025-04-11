@@ -1,3 +1,3 @@
 - Hey there, I'm anchikai. I develop my own games in my free time
-- I work on my own projects such as Oddment
-- If you want to get in contact with me, my discord is @anchikai
+- I work on my own projects such as Oddment and Minesweeper Together
+- If you want to get in contact with me, my Discord is @anchikai
